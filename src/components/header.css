@@ -1,0 +1,33 @@
+.main-header{
+  position: fixed;
+  background: #fff;
+  top: 0;
+  width: 100%;
+}
+
+
+.navigation{
+    display: flex;
+    float: right;
+    
+  }
+  
+  .nav-links{
+    display: flex;
+    list-style: none;
+    
+  }
+  .nav-link{
+    color: rgba(0, 0, 0, 0.87);
+    text-decoration: none;
+    margin-right: 2rem;
+  }
+  
+  .app-icon{
+    margin-top: .5rem;
+    margin-right: 2rem;
+  }
+  
+  .pic-icon{
+    margin-top: .5rem;
+  }

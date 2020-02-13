@@ -1,0 +1,92 @@
+
+.landing{
+    width: auto;
+    height: auto;
+}
+
+.google-logo{
+   position: relative;
+   top: 12rem;
+   left: 10rem;
+  }
+  
+  
+  input[type=text]{
+ font-size: 18px;
+  height: 4rem;
+  width: 20rem;
+   border: none;
+    background: transparent; 
+    color: #9AA0A6; 
+  }
+  input[type=text]:focus{
+      border: none;
+      outline: none;
+  }
+
+  .googlemic{
+      position: relative;
+      top:15rem;
+      left: 10rem;
+
+  }
+
+  .search-icon{
+      position: relative;
+      top: 15rem;
+      left: -15rem;
+      fill: #9AA0A6;
+      
+  }
+
+  .input-wrap{
+      border: 1px solid #9AA0A6;
+      width: 30rem;
+      height: 3.5rem;
+      border-radius: 50px;
+      top: 12rem;
+      position: relative;
+      right: -25rem;
+  }
+
+  .buttons{
+      position: relative;
+      top: 14rem;
+      
+      
+
+  }
+
+  input[type=button]{
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5F6368;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    height: 42px;
+    text-align: center;
+    cursor: pointer;
+    margin-right: 1.5rem;
+  }
+  input[type=button]:hover{
+      border: 1px solid rgba(95, 95, 95, 0.54);
+  }
+
+
+  
+
+  #offer{
+      position: relative;
+      top: 15rem;
+      margin-left: 1rem;
+     
+  }
+
+  .offer-link{
+      padding-right: 1.5rem;
+  }
+  .space{
+      padding-left: 1.5rem;
+  }
